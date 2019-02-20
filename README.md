@@ -1,1 +1,1 @@
-# Course-React-Redux-React-Native
+# Course React/Redux/React-Native
